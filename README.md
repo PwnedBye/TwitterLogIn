@@ -13,6 +13,8 @@ Very useful for creating bots and automating actions on X.
 - Selenium - [Download links](https://www.selenium.dev/downloads/)
 - Web driver of your current web browser - [Chrome for example](https://googlechromelabs.github.io/chrome-for-testing/#stable)
 
-## USAGE WIP
+## Usage
 
-WIP
+Open PyCharm or a Terminal, depending of your environment:
+
+    $> robot file.robot
